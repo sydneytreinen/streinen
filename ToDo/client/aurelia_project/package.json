@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "aurelia",
+        "scope": null,
+        "escapedName": "aurelia",
+        "name": "aurelia",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\strei\\OneDrive\\Documents\\Todo's"
+    ]
+  ],
+  "_from": "aurelia@latest",
+  "_id": "aurelia@0.0.0",
+  "_inCache": true,
+  "_location": "/aurelia",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "aaike",
+    "email": "aaikevr@gmail.com"
+  },
+  "_npmVersion": "2.5.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "aurelia",
+    "scope": null,
+    "escapedName": "aurelia",
+    "name": "aurelia",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/aurelia/-/aurelia-0.0.0.tgz",
+  "_shasum": "2c8acc12b7914f540e72629cd722ab7f9f8a9af2",
+  "_shrinkwrap": null,
+  "_spec": "aurelia",
+  "_where": "C:\\Users\\strei\\OneDrive\\Documents\\Todo's",
+  "author": "",
+  "dependencies": {},
+  "description": "Aurelia command line",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "2c8acc12b7914f540e72629cd722ab7f9f8a9af2",
+    "tarball": "https://registry.npmjs.org/aurelia/-/aurelia-0.0.0.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "aaike",
+      "email": "aaikevr@gmail.com"
+    }
+  ],
+  "name": "aurelia",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0"
+}

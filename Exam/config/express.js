@@ -1,8 +1,12 @@
 var express = require('express');
+var express = require('cors')
+
 
 
 module.exports = function (app, config) {
 
+	app.use(cors({origin: 'http://localhost:9000'}));
+	
 //response to url 
   app.use(function (req, res, next) {
     console.log('Request from ' + req.connection.remoteAddress);

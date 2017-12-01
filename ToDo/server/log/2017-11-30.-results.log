@@ -26,3 +26,36 @@
 {"level":"info","message":"loading models","timestamp":"2017-11-30T23:01:55.260Z"}
 {"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:01:55.293Z"}
 {"level":"info","message":"Starting application","timestamp":"2017-11-30T23:01:55.295Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:12:13.997Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:12:14.021Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:12:14.060Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:12:14.061Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:16:37.385Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:16:37.410Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:16:37.440Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:16:37.441Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:18:27.926Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:18:27.951Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:18:27.988Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:18:27.990Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-30T23:18:28.047Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:21:40.584Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:21:40.621Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:21:40.659Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:21:40.662Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-30T23:21:40.724Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:22:27.687Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:22:27.706Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:22:27.743Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:22:27.745Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-30T23:22:27.809Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:24:03.832Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:24:03.852Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:24:03.886Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:24:03.887Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-30T23:24:03.948Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-11-30T23:24:39.825Z"}
+{"level":"info","message":"loading models","timestamp":"2017-11-30T23:24:39.846Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-11-30T23:24:39.880Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-11-30T23:24:39.882Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-11-30T23:24:39.933Z"}

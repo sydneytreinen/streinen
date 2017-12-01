@@ -8,7 +8,7 @@ var cors = require ('cors');
 
 module.exports = function (app, config) {
 
-  app.use(cors({origin: "http://localhost:9000"}));
+  app.use(cors({origin: "http://localhost:9001"}));
 
   logger.log("Loading Mongoose functionality");
   mongoose.Promise = require ('bluebird');
@@ -41,8 +41,9 @@ module.exports = function (app, config) {
 
   //loading controllers
   logger.log("loading controllers");
-  var controllers = glob.sync(config.root + '/app/controllers/*.js');
+  var controllers = glob.sync(config.root + '/app/contoller/*.js');
   controllers.forEach(function(controller) {
+    console.log(controller)
     require(controller)(app, config);
   });
 

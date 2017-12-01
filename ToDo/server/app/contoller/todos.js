@@ -5,7 +5,10 @@ mongoose = require('mongoose'),
 User = mongoose.model('User'),
 bcrypt = require('bcryptjs'),
 multer = require('multer'),
-mkdirp = require('mkdirp');
+mkdirp = require('mkdirp'),
+passport = require('passport');
+
+var requireAuth = passport.authenticate('jwt', { session: false });
 
 module.exports = function (app, config) {
 app.use('/api', router);

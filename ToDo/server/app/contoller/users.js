@@ -12,9 +12,9 @@ var requireAuth = passport.authenticate('jwt', { session: false });
 module.exports = function (app, config) {
     app.use('/api', router);
 
-    route.route('/users/login').post(requireLogin, login);
+    router.route('/users/login').post(requireLogin, login);
 
-    route.route('users').get(requireAuth, function (req, next) {
+    router.route('users').get(function (req, next) {
         logger.log('GEt all users', 'verbose');
 
         var query = User.find()

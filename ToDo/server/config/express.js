@@ -1,7 +1,7 @@
 var express = require('express');
 var logger = require('./logger');
 var morgan = require('morgan');
-var bodyparser =require('body-parser');
+var bodyParser =require('body-parser');
 var mongoose = require('mongoose');
 var glob = require ('glob');
 var cors = require ('cors');
@@ -31,6 +31,11 @@ module.exports = function (app, config) {
     console.log('Request from ' + req.connection.remoteAddress);
     next();
   }); 
+
+  //body parser aruelia list 3
+  app.use(bodyParser.json({limit: '1000mb'}));
+  app.use(bodyParser.urlencoded({limit: '1000mb', extended: true}));
+  
   
   //loading models
   logger.log("loading models");
@@ -43,16 +48,11 @@ module.exports = function (app, config) {
   logger.log("loading controllers");
   var controllers = glob.sync(config.root + '/app/contoller/*.js');
   controllers.forEach(function(controller) {
-    console.log(controller)
     require(controller)(app, config);
   });
 
 
   app.use(express.static(config.root + '/public'));
-  
-
-  
-	
   
 	app.use(function (req, res) {
 	  res.type('text/plan');

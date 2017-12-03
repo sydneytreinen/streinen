@@ -50,7 +50,7 @@ module.exports = function (app, config) {
 
     router.route('/users').post(function (req, res, next) {
         logger.log('create user ' + req.params.userId, 'verbose');
-
+console.log(req.body)
         var user = new User(req.body);
         user.save()
             .then(results => {

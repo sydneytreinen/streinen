@@ -30,8 +30,8 @@ export class Home {
 
     showRegister() {
         this.user = {
-            firstName: "",
-            lastName: "",
+            firstname: "",
+            lastname: "",
             email: "",
             password: ""
 

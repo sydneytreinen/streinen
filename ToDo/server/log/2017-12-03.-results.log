@@ -1,0 +1,5 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T19:05:20.199Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T19:05:20.213Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T19:05:20.282Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T19:05:21.957Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-03T19:05:22.079Z"}

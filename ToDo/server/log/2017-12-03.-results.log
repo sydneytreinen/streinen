@@ -25,3 +25,13 @@
 {"level":"verbose","message":"create user undefined","timestamp":"2017-12-03T19:54:10.615Z"}
 {"level":"verbose","message":"create user undefined","timestamp":"2017-12-03T19:54:48.929Z"}
 {"level":"error","message":"","timestamp":"2017-12-03T19:54:57.366Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-03T20:05:49.952Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-03T20:06:13.516Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-03T20:07:41.202Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-03T20:09:37.525Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-03T20:09:37.541Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-03T20:09:37.571Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-03T20:09:37.760Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-03T20:09:37.798Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-03T20:10:26.050Z"}
+{"level":"error","message":"","timestamp":"2017-12-03T20:10:33.059Z"}

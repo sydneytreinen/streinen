@@ -41,7 +41,7 @@ export class List {
 
 
   async activate(){
-    await this. todos.getUsertodos(this.user.id);
+    await this. todos.getUserTodos(this.user.id);
   }
 
     

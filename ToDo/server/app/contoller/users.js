@@ -15,7 +15,7 @@ module.exports = function (app, config) {
     router.route('/users/login').post(requireLogin, login);
 
     router.route('users').get(function (req, next) {
-        logger.log('GEt all users', 'verbose');
+        logger.log('Get all users', 'verbose');
 
         var query = User.find()
             .sort(req.query.order)
@@ -54,7 +54,7 @@ console.log(req.body)
         var user = new User(req.body);
         user.save()
             .then(results => {
-                res.status(201).json(result);
+                res.status(201).json(results);
             })
             .catch(error => {
                 return next(error);

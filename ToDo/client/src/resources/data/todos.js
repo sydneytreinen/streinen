@@ -13,20 +13,20 @@ this.todoArray =[];
 async getUserTodos(id){
     let response = await this.data.get(this.TODO_SERVICE + "/user/" + todo._id);
     if(!response.error && !response.message){
-        this.todosArray = response;
+        this.todoArray = response;
     }
 }
 
 async save(todo){
     if(todo){
         if(!todo._id){
-            let serverResponse = await this.data.post(todo, this.TODOS_SERVICE);
+            let serverResponse = await this.data.post(todo, this.TODO_SERVICE);
             if(!serverResponse.error){
-                this.todosArray.push(serverResponse);
+                this.todoArray.push(serverResponse);
             }
             return ServerResponse;
         } else {
-            let response = await this.data.put(todo, this.TODOS_SERVICE + "/" + todo._id);
+            let response = await this.data.put(todo, this.TODO_SERVICE + "/" + todo._id);
             if(!response.error){
                 
             }
@@ -37,11 +37,11 @@ async save(todo){
     
 }
 async deleteTodo(id){
-    let response = await this.data.delete(this.TODOS_SERVICE + "/" + id);
+    let response = await this.data.delete(this.TODO_SERVICE + "/" + id);
     if(!response.error){
-        for(let i = 0; i < this.todosArray.length; i++){
-            if(this.todosArray[i]._id === id){
-                this.todosArray.splice(i,1);
+        for(let i = 0; i < this.todoArray.length; i++){
+            if(this.todoArray[i]._id === id){
+                this.todoArray.splice(i,1);
             }
         }
     }

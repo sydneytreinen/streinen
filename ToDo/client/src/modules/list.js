@@ -41,7 +41,7 @@ export class List {
 
 
   async activate(){
-    await this. todos.getUserTodos(this.user.id);
+    await this. todos.getUserTodo(this.user.id);
   }
 
     
@@ -72,7 +72,7 @@ toggleShowCompleted(){
       return response;
     }
     
-  
+  // maybe?
   deleteTodo(todo){
           this.todos.deleteTodo(todo._id);
       }

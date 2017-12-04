@@ -101,8 +101,8 @@ var storage = multer.diskStorage({
 
     console.log(req.body)
 
-    var Todo = new Todo(req.body);
-    user.save()
+    var todo = new Todo(req.body);
+    todo.save()
         .then(results => {
             res.status(201).json(results);
         })

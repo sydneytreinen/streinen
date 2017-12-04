@@ -2,11 +2,15 @@ var express = require('express'),
 router = express.Router(),
 logger = require('../../config/logger'),
 mongoose = require('mongoose'),
-User = mongoose.model('User'),
+Todo = mongoose.model('Todo'),
 bcrypt = require('bcryptjs'),
 multer = require('multer'),
 mkdirp = require('mkdirp'),
 passport = require('passport');
+
+user = mongoose.model('User'),
+bcrypt = require('bcryptjs');
+
 
 var requireAuth = passport.authenticate('jwt', { session: false });
 
@@ -17,7 +21,7 @@ app.use('/api', router);
 router.route('/todos/user/:todoId').get(function (req, res, next) {
     logger.log('Get todos ' , 'verbose');
 
-    var query = todo.find({user: req.params.userId})
+    var query = Todo.find({user: req.params.userId})
     .sort(req.query.order)
     .exec()
     .then(result => {
@@ -39,7 +43,7 @@ router.route('/todos/user/:todoId').get(function (req, res, next) {
 
 router.get('/todos', requireAuth, function (req, res, next) {
     logger.log('Get all todos', "verbose");
-    User.find()
+    Todo.find()
         .then(result => {
             res.status(200).json(result);
         })
@@ -51,7 +55,7 @@ router.get('/todos', requireAuth, function (req, res, next) {
 
 router.route('/todos/:todoId').put(function (req, res, next) {
     logger.log('Update todos ' + req.params.todosId, 'verbose');
-    User.findOneAndUpdate({ _id: req.params.todosId },
+    Todo.findOneAndUpdate({ _id: req.params.todosId },
         req.body, { new: true, multi: false })
         .then(todos => {
             res.status(200).json(todos);
@@ -64,7 +68,7 @@ router.route('/todos/:todoId').put(function (req, res, next) {
 
 router.route('/todos/:todoId').delete(function (req, res, next) {
     logger.log('Delete todos ' + req.params.userId, 'verbose');
-    User.remove({ _id: req.params.userId })
+    Todo.remove({ _id: req.params.userId })
         .then(todos => {
             res.status(200).json({ msg: "todos Deleted" });
         })

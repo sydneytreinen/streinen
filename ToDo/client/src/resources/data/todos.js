@@ -10,8 +10,8 @@ export class ToDos {
 this.todoArray =[];
 
    		 }
-async getUserTodos(id){
-    let response = await this.data.get(this.TODO_SERVICE + "/user/" + todo._id);
+async getUserTodo(id){
+    let response = await this.data.get(this.TODO_SERVICE + "/user/" +id);
     if(!response.error && !response.message){
         this.todoArray = response;
     }
@@ -34,7 +34,7 @@ async save(todo){
         }
     }
 
-    
+
 }
 async deleteTodo(id){
     let response = await this.data.delete(this.TODO_SERVICE + "/" + id);

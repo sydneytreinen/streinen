@@ -1,8 +1,9 @@
 import {inject} from 'aurelia-framework';
 import {Router} from 'aurelia-router';
 import { AuthService } from 'aurelia-auth';
+import { ToDos } from '../resources/data/todos';
 
-@inject(Router, AuthService, todos)
+@inject(Router, AuthService, ToDos)
 export class List {
   constructor(router, auth, todos) {
           this.router = router;
@@ -41,7 +42,7 @@ export class List {
 
 
   async activate(){
-    await this. todos.getUserTodo(this.user.id);
+    await this. todos.getUserTodo(this.user._id);
   }
 
     

@@ -25,8 +25,8 @@ router.route('/todos/user/:todoId').get(function (req, res, next) {
     .sort(req.query.order)
     .exec()
     .then(result => {
-        if (results && result.lenght) {
-            res.status(200).json(results);
+        if (result && result.lenght) {
+            res.status(200).json(result);
         } else {
             res.status(404).json({ message: "No todos found" });
         }

@@ -95,6 +95,22 @@ var storage = multer.diskStorage({
   });
 
   var upload = multer({ storage: storage });
+
+  router.route('/todos').post(function (req, res, next) {
+    logger.log('create user ' + req.params.userId, 'verbose');
+
+    console.log(req.body)
+
+    var Todo = new Todo(req.body);
+    user.save()
+        .then(results => {
+            res.status(201).json(results);
+        })
+        .catch(error => {
+            return next(error);
+        });
+
+});
   
 
   router.post('/todos/upload/:userId/:todoId', upload.any(), function(req, res, next){

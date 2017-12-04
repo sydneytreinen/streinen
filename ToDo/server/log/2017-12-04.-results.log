@@ -46,3 +46,26 @@
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T15:59:29.566Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:00:03.286Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:02:14.501Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:02:28.224Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:02:38.867Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:03:03.866Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:04:01.338Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:05:06.933Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:09:02.660Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:09:18.601Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:10:17.199Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T16:14:42.056Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-04T16:14:42.074Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-04T16:14:42.108Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T16:14:42.296Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T16:14:42.331Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:14:54.653Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:16:17.166Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-04T16:20:06.803Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-04T16:20:06.822Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-04T16:20:06.851Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-04T16:20:07.060Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-04T16:20:07.150Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-04T16:20:11.848Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-04T16:20:22.384Z"}
+{"level":"error","message":"TypeError: Todo is not a constructor\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\app\\contoller\\todos.js:104:16\n    at Layer.handle [as handle_request] (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at Layer.handle [as handle_request] (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at Layer.handle [as handle_request] (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at urlencodedParser (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\body-parser\\lib\\types\\urlencoded.js:82:7)","timestamp":"2017-12-04T16:20:22.453Z"}

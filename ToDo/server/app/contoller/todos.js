@@ -111,7 +111,7 @@ var storage = multer.diskStorage({
                         dateUploaded : new Date()
                     };
                 }           
-                todo.save()
+                Todo.save()
                     .then(todo => {
                         res.status(200).json(todo);
                     })

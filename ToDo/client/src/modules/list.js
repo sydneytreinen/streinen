@@ -10,7 +10,7 @@ export class List {
           this.auth = auth;
           this.todos = todos;
 
-       
+          this.message = 'List';
           this.user = JSON.parse(sessionStorage.getItem('user'));
           this.showList = true;
           this.priorities = ['low','medium', 'high', 'critical']

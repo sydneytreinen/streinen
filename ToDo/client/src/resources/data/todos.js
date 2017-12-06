@@ -24,7 +24,7 @@ async save(todo){
             if(!serverResponse.error){
                 this.todosArray.push(serverResponse);
             }
-            return ServerResponse;
+            return serverResponse;
         } else {
             let response = await this.data.put(todo, this.TODO_SERVICE + "/" + todo._id);
             if(!response.error){

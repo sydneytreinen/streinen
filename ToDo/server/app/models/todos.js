@@ -4,8 +4,8 @@ var Schema = Mongoose.Schema;
 priorities = ['Low', 'Medium', 'High', 'Critical'];
 
 var TodoSchema = new Schema({
-user: { type: Schema.Types.ObjectId, required: true },
-Todo: { type: String, required: true },
+userId: { type: Schema.Types.ObjectId, required: true },
+todo: { type: String, required: true },
 description: { type: String },
 dateCreated: { type:Date, default: Date.now},
 dateDue: {type:Date, defualt: Date.now},

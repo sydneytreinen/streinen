@@ -13,7 +13,7 @@ export class List {
           this.message = 'List';
           this.user = JSON.parse(sessionStorage.getItem('user'));
           this.showList = true;
-          this.priorities = ['low','medium', 'high', 'critical']
+          this.priorities = ['Low','Medium', 'High', 'Critical']
           this.showCompleted = false;
      
   }

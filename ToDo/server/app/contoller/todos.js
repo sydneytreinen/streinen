@@ -18,14 +18,14 @@ module.exports = function (app, config) {
 app.use('/api', router);
 
 
-router.route('/todos/user/:todoId').get(function (req, res, next) {
+router.route('/todos/user/:userId').get(function (req, res, next) {
     logger.log('Get todos ' , 'verbose');
-
-    var query = Todo.find({user: req.params.userId})
+console.log(req.params.userId)
+    var query = Todo.find({userId: req.params.userId})
     .sort(req.query.order)
     .exec()
     .then(result => {
-        if (result && result.lenght) {
+        if (result && result.length) {
             res.status(200).json(result);
         } else {
             res.status(404).json({ message: "No todos found" });
@@ -41,7 +41,7 @@ router.route('/todos/user/:todoId').get(function (req, res, next) {
         
 
 
-router.get('/todos', requireAuth, function (req, res, next) {
+router.get('/todos', function (req, res, next) {
     logger.log('Get all todos', "verbose");
     Todo.find()
         .then(result => {

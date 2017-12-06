@@ -1,0 +1,98 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T01:40:28.977Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T01:40:28.995Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T01:40:29.021Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T01:40:29.254Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T01:40:29.312Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T01:40:41.947Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T01:40:53.349Z"}
+{"level":"error","message":"ValidationError: Todo validation failed: Todo: Path `Todo` is required., user: Path `user` is required., priority: `low` is not a valid enum value for path `priority`.\n    at new ValidationError (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1636:32)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1508:17\n    at validate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (<anonymous>)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","timestamp":"2017-12-06T01:40:53.371Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T01:41:01.439Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T01:42:30.278Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T01:42:30.294Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T01:42:30.321Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T01:42:30.500Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T01:42:30.546Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T01:52:16.721Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T01:52:16.740Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T01:52:16.764Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T01:52:16.944Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T01:52:16.976Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T01:52:27.377Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T01:52:45.532Z"}
+{"level":"error","message":"ValidationError: Todo validation failed: Todo: Path `Todo` is required., user: Path `user` is required., priority: `high` is not a valid enum value for path `priority`.\n    at new ValidationError (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1636:32)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1508:17\n    at validate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (<anonymous>)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","timestamp":"2017-12-06T01:52:45.554Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T01:52:53.053Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T02:04:53.793Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T02:04:53.813Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T02:04:53.836Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T02:04:54.014Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T02:04:54.052Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T02:11:57.376Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T02:11:57.396Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T02:11:57.426Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T02:11:57.620Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T02:11:57.656Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T02:12:10.809Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T02:12:23.323Z"}
+{"level":"error","message":"ValidationError: Todo validation failed: Todo: Path `Todo` is required., user: Path `user` is required., priority: `low` is not a valid enum value for path `priority`.\n    at new ValidationError (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1636:32)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1508:17\n    at validate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (<anonymous>)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","timestamp":"2017-12-06T02:12:23.351Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T02:12:31.743Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:17:06.287Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:17:06.305Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:17:06.332Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:17:06.527Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:17:06.561Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:17:27.486Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:17:31.740Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:18:10.194Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:18:10.209Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:18:10.236Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:18:10.426Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:18:10.462Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:18:24.876Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:18:55.871Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T22:19:24.929Z"}
+{"level":"error","message":"ValidationError: Todo validation failed: Todo: Path `Todo` is required., user: Path `user` is required., priority: `low` is not a valid enum value for path `priority`.\n    at new ValidationError (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1636:32)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1508:17\n    at validate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (<anonymous>)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","timestamp":"2017-12-06T22:19:24.944Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:20:45.187Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:21:19.057Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T22:21:54.315Z"}
+{"level":"error","message":"ValidationError: Todo validation failed: Todo: Path `Todo` is required., user: Path `user` is required., priority: `low` is not a valid enum value for path `priority`.\n    at new ValidationError (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1636:32)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1508:17\n    at validate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (<anonymous>)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","timestamp":"2017-12-06T22:21:54.328Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:24:21.778Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:24:21.821Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:24:21.876Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:24:22.127Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:24:22.178Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:25:26.272Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T22:25:39.892Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:26:07.742Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:26:22.923Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:27:12.068Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:27:12.087Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:27:12.120Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:27:12.331Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:27:12.386Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:27:22.319Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:28:07.849Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:28:07.876Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:28:07.910Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:28:08.154Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:28:08.211Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:28:16.076Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:28:57.634Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:28:57.658Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:28:57.684Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:28:57.920Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:28:57.983Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:29:03.016Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:29:34.343Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:29:34.364Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:29:34.400Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:29:34.686Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:29:34.777Z"}
+{"level":"verbose","message":"Get all todos","timestamp":"2017-12-06T22:30:09.056Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:30:37.777Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T22:31:58.213Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T22:31:58.269Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T22:31:58.330Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T22:31:58.739Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:31:58.775Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:32:02.996Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:32:17.657Z"}

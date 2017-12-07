@@ -23,3 +23,24 @@
 {"level":"info","message":"Starting application","timestamp":"2017-12-07T00:44:50.172Z"}
 {"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-07T00:44:50.223Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T00:45:08.459Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T00:56:33.166Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T00:56:36.219Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T01:08:28.877Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-07T01:10:02.920Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-07T01:10:02.935Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-07T01:10:02.961Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-07T01:10:03.118Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-07T01:10:03.155Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T01:10:15.509Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:10:17.788Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:10:20.612Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T01:11:35.569Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-07T01:11:45.523Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:11:48.847Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:11:50.445Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:11:51.477Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:11:52.205Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T01:13:45.556Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:13:50.434Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:14:33.518Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:14:49.484Z"}

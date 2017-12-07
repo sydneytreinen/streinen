@@ -96,3 +96,57 @@
 {"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T22:31:58.775Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:32:02.996Z"}
 {"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T22:32:17.657Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T22:38:22.631Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T22:38:25.471Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T22:38:26.343Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T22:38:27.272Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T22:38:28.832Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T22:38:29.698Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T23:17:17.002Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T23:17:17.021Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T23:17:17.048Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T23:17:17.241Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T23:17:17.279Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:17:29.693Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T23:17:55.501Z"}
+{"level":"error","message":"","timestamp":"2017-12-06T23:18:05.936Z"}
+{"level":"error","message":"","timestamp":"2017-12-06T23:18:11.113Z"}
+{"level":"error","message":"","timestamp":"2017-12-06T23:18:12.760Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T23:18:30.863Z"}
+{"level":"error","message":"","timestamp":"2017-12-06T23:18:38.422Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T23:19:02.437Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:19:12.272Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:19:25.569Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:19:37.706Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:19:40.445Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:19:41.568Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:19:41.761Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:20:01.203Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:20:02.274Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:20:02.464Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:20:11.874Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-06T23:20:24.436Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:20:31.876Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:25:34.440Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:25:36.539Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:27:21.897Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:27:25.083Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:27:27.884Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T23:28:28.014Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T23:28:28.065Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T23:28:28.131Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T23:28:28.448Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-06T23:29:29.501Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-06T23:29:29.524Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-06T23:29:29.548Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-06T23:29:29.774Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-06T23:29:29.816Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:29:44.711Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:29:46.627Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:29:48.142Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:37:33.473Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:37:35.889Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:37:36.928Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-06T23:37:38.007Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-06T23:40:21.220Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-06T23:40:22.940Z"}

@@ -40,7 +40,10 @@
             "env": "dev"
           },
           "node_modules/requirejs/require.js"
-        ],
+      
+      
+      ],
+      
         "dependencies": [
           {
             "name": "aurelia-fetch-client",
@@ -74,6 +77,7 @@
             "path": "../node_modules/aurelia-templating-resources/dist/amd",
             "main": "aurelia-templating-resources"
           },
+          
           {
             "name": "aurelia-templating-router",
             "path": "../node_modules/aurelia-templating-router/dist/amd",
@@ -101,10 +105,24 @@
             "path": "../node_modules/aurelia-auth/dist/amd",
             "main": "aurelia-auth"
           },
-          "moment"
+          "moment",
+          {
+            "name": "flatpickr",
+            "path": "../node_modules/flatpickr/dist",
+            "main": "flatpickr",
+            "resources": [
+              "flatpickr.css",
+              "themes/dark.css",
+              "themes/material_blue.css"
+            ]
+          }
+
         ]
+
       }
+  
     ],
+
     "loader": {
       "type": "require",
       "configTarget": "vendor-bundle.js",

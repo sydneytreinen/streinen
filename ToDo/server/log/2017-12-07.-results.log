@@ -1,0 +1,25 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-07T00:26:39.187Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-07T00:26:39.212Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-07T00:26:39.245Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-07T00:26:39.429Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-07T00:26:39.486Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T00:26:54.245Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-07T00:29:24.155Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-07T00:29:24.194Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-07T00:29:24.267Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-07T00:29:25.661Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-07T00:29:25.762Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T00:29:40.686Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-07T00:32:51.362Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-07T00:32:51.379Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-07T00:32:51.408Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-07T00:32:51.604Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-07T00:32:51.640Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T00:33:04.086Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-07T00:39:31.177Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-07T00:44:49.965Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-07T00:44:49.980Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-07T00:44:50.008Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-07T00:44:50.172Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-07T00:44:50.223Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T00:45:08.459Z"}

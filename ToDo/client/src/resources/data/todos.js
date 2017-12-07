@@ -39,7 +39,7 @@ async save(todo){
 async deleteTodo(id){
     let response = await this.data.delete(this.TODO_SERVICE + "/" + id);
     if(!response.error){
-        for(let i = 0; i < this.todoArray.length; i++){
+        for(let i = 0; i < this.todoArray.lenght; i++){
             if(this.todosArray[i]._id === id){
                 this.todosArray.splice(i,1);
             }

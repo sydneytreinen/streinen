@@ -44,3 +44,8 @@
 {"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:13:50.434Z"}
 {"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:14:33.518Z"}
 {"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:14:49.484Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-07T01:23:34.794Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:29:48.549Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-07T01:29:49.263Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:29:50.942Z"}
+{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-07T01:29:51.762Z"}

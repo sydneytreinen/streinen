@@ -1,0 +1,10 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-09T02:15:40.484Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-09T02:15:40.581Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-09T02:15:40.853Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-09T02:15:58.205Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-09T02:15:58.257Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-09T02:16:00.277Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-09T02:16:38.185Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-09T02:16:45.527Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-09T02:16:47.421Z"}
+{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-09T02:16:47.858Z"}

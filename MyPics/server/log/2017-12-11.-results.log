@@ -35,26 +35,3 @@
 {"level":"info","message":"loading controllers","timestamp":"2017-12-11T23:36:52.648Z"}
 {"level":"info","message":"Starting application","timestamp":"2017-12-11T23:36:52.809Z"}
 {"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-11T23:36:52.849Z"}
-{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-11T23:42:37.392Z"}
-{"level":"info","message":"loading models","timestamp":"2017-12-11T23:42:37.413Z"}
-{"level":"info","message":"loading controllers","timestamp":"2017-12-11T23:42:37.441Z"}
-{"level":"info","message":"Starting application","timestamp":"2017-12-11T23:42:37.629Z"}
-{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-11T23:42:37.666Z"}
-{"level":"verbose","message":"Get todos ","timestamp":"2017-12-11T23:43:29.266Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:43:32.871Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:43:33.353Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:43:33.834Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:43:34.306Z"}
-{"level":"verbose","message":"create user undefined","timestamp":"2017-12-11T23:43:40.581Z"}
-{"level":"error","message":"ValidationError: Todo validation failed: todo: Path `todo` is required.\n    at new ValidationError (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\error\\validation.js:28:11)\n    at model.Document.invalidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1636:32)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1508:17\n    at validate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:779:7)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:824:11\n    at Array.forEach (<anonymous>)\n    at SchemaString.SchemaType.doValidate (C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\schematype.js:784:19)\n    at C:\\Users\\strei\\OneDrive\\Documents\\Todo's\\ToDo\\server\\node_modules\\mongoose\\lib\\document.js:1506:9\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","timestamp":"2017-12-11T23:43:40.631Z"}
-{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-11T23:49:10.090Z"}
-{"level":"info","message":"loading models","timestamp":"2017-12-11T23:49:10.110Z"}
-{"level":"info","message":"loading controllers","timestamp":"2017-12-11T23:49:10.134Z"}
-{"level":"info","message":"Starting application","timestamp":"2017-12-11T23:49:10.324Z"}
-{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-11T23:49:10.363Z"}
-{"level":"verbose","message":"Get todos ","timestamp":"2017-12-11T23:49:22.422Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:49:25.245Z"}
-{"level":"verbose","message":"Update todos undefined","timestamp":"2017-12-11T23:49:31.570Z"}
-{"level":"verbose","message":"Get todos ","timestamp":"2017-12-11T23:49:38.807Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:49:40.376Z"}
-{"level":"verbose","message":"Delete todos undefined","timestamp":"2017-12-11T23:49:40.967Z"}

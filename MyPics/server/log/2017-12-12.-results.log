@@ -1,0 +1,14 @@
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T23:04:22.406Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-12T23:04:22.438Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-12T23:04:22.477Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T23:04:22.479Z"}
+{"level":"info","message":"Loading Mongoose functionality","timestamp":"2017-12-12T23:53:36.927Z"}
+{"level":"info","message":"loading models","timestamp":"2017-12-12T23:53:36.944Z"}
+{"level":"info","message":"loading controllers","timestamp":"2017-12-12T23:53:36.969Z"}
+{"level":"info","message":"Starting application","timestamp":"2017-12-12T23:53:37.153Z"}
+{"level":"info","message":"Mongoose connected to the database","timestamp":"2017-12-12T23:53:37.190Z"}
+{"level":"error","message":"","timestamp":"2017-12-12T23:53:54.868Z"}
+{"level":"verbose","message":"create user undefined","timestamp":"2017-12-12T23:54:13.611Z"}
+{"level":"error","message":"","timestamp":"2017-12-12T23:54:15.420Z"}
+{"level":"error","message":"","timestamp":"2017-12-12T23:54:16.885Z"}
+{"level":"verbose","message":"Get todos ","timestamp":"2017-12-12T23:54:27.781Z"}
